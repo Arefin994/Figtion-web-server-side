@@ -1,0 +1,60 @@
+{
+    "allItems":{
+        "products": [
+            {
+                "id": 1,
+                "name": "Superman Action Figure",
+                "price": 19.99,
+                "rating": 4.5,
+                "subcategory": "Superheroes",
+                "quantity": 10,
+                "seller": "Action Figures Inc."
+            },
+            {
+                "id": 2,
+                "name": "Batman Action Figure",
+                "price": 24.99,
+                "rating": 4.2,
+                "subcategory": "Superheroes",
+                "quantity": 5,
+                "seller": "Action Figures Inc."
+            },
+            {
+                "id": 3,
+                "name": "Spider-Man Action Figure",
+                "price": 17.99,
+                "rating": 4.7,
+                "subcategory": "Superheroes",
+                "quantity": 8,
+                "seller": "Marvel Toys"
+            },
+            {
+                "id": 4,
+                "name": "Iron Man Action Figure",
+                "price": 29.99,
+                "rating": 4.8,
+                "subcategory": "Superheroes",
+                "quantity": 3,
+                "seller": "Marvel Toys"
+            },
+            {
+                "id": 5,
+                "name": "Goku Action Figure",
+                "price": 39.99,
+                "rating": 4.9,
+                "subcategory": "Anime",
+                "quantity": 2,
+                "seller": "Anime Toys"
+            },
+            {
+                "id": 6,
+                "name": "Naruto Action Figure",
+                "price": 34.99,
+                "rating": 4.6,
+                "subcategory": "Anime",
+                "quantity": 6,
+                "seller": "Anime Toys"
+            }
+        ]
+    }
+}
