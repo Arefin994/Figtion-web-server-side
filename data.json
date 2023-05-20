@@ -1,59 +1,59 @@
 {
-    "allItems":{
-        "products": [
+    "allItems": {
+        "sellers": [
             {
-                "id": 1,
-                "name": "Superman Action Figure",
-                "price": 19.99,
-                "rating": 4.5,
-                "subcategory": "Superheroes",
-                "quantity": 10,
-                "seller": "Action Figures Inc."
+                "name": "DC Figs",
+                "totalSales": 556,
+                "figures": [
+                    {
+                        "name": "SuperMan Action Figure",
+                        "rating": 4.5,
+                        "price": 18.69,
+                        "image": "https://media.entertainmentearth.com/assets/images/589d7b60777c4436aab8ef40fa12dd83xl.jpg"
+                    },
+                    {
+                        "name": "BatMan Action Figure",
+                        "rating": 4.2,
+                        "price": 15.99,
+                        "image": "https://bbts1.azureedge.net/images/p/full/2021/10/311ce6ad-0849-46e2-9e72-93ca899d194d.jpg"
+                    }
+                ]
             },
             {
-                "id": 2,
-                "name": "Batman Action Figure",
-                "price": 24.99,
-                "rating": 4.2,
-                "subcategory": "Superheroes",
-                "quantity": 5,
-                "seller": "Action Figures Inc."
+                "name": "Marvel Figs",
+                "totalSales": 844,
+                "figures": [
+                    {
+                        "name": "SpiderMan Action Figure",
+                        "rating": 4.9,
+                        "price": 25.69,
+                        "image": "https://media.entertainmentearth.com/assets/images/e8571a89c2b94dffb2fce5ba1ba866d1xl.jpg"
+                    },
+                    {
+                        "name": "IronMan Action Figure",
+                        "rating": 4.8,
+                        "price": 20.5,
+                        "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F02%2Fmedicom-toy-mafex-marvel-avengers-infinity-war-iron-man-action-figure-001.jpg?q=75&w=800&cbr=1&fit=max"
+                    }
+                ]
             },
             {
-                "id": 3,
-                "name": "Spider-Man Action Figure",
-                "price": 17.99,
-                "rating": 4.7,
-                "subcategory": "Superheroes",
-                "quantity": 8,
-                "seller": "Marvel Toys"
-            },
-            {
-                "id": 4,
-                "name": "Iron Man Action Figure",
-                "price": 29.99,
-                "rating": 4.8,
-                "subcategory": "Superheroes",
-                "quantity": 3,
-                "seller": "Marvel Toys"
-            },
-            {
-                "id": 5,
-                "name": "Goku Action Figure",
-                "price": 39.99,
-                "rating": 4.9,
-                "subcategory": "Anime",
-                "quantity": 2,
-                "seller": "Anime Toys"
-            },
-            {
-                "id": 6,
-                "name": "Naruto Action Figure",
-                "price": 34.99,
-                "rating": 4.6,
-                "subcategory": "Anime",
-                "quantity": 6,
-                "seller": "Anime Toys"
+                "name": "Anime Figs",
+                "totalSales": 696,
+                "figures": [
+                    {
+                        "name": "Goku Action Figure",
+                        "rating": 4.7,
+                        "price": 33.45,
+                        "image": "https://shop.bandai.com/media/catalog/product/b/a/bas60501_son_goku-_1_.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+                    },
+                    {
+                        "name": "Naruto Action Figure",
+                        "rating": 4.8,
+                        "price": 30.5,
+                        "image": "https://i5.walmartimages.com/asr/4e4ff9f8-f6bd-449a-929d-7f874fddf50e.dbaaef8df8386aeecef2ceda2f8c6aaf.jpeg"
+                    }
+                ]
             }
         ]
     }
